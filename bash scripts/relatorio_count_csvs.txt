@@ -1,0 +1,167 @@
+   ./count_csvs.sh
+============================================
+COUNT DE LINHAS POR FICHEIRO CSV
+Base: .
+============================================
+./00 - AMOSTRAS/Amostra_PGIL_IPMA_METEO_OBS.csv                                  100
+./00 - AMOSTRAS/Amostra_Vodafone_grelha_06_2025.csv                              100
+./00 - AMOSTRAS/Amostra_waze_2025_06.csv                                         100
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/01_2023/PgilVodafone_202301_1000_2000.csv 7779772
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/01_2023/PgilVodafone_202301_1_1000.csv 7772000
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/01_2023/PgilVodafone_202301_2000_3000.csv 7779772
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/01_2023/PgilVodafone_202301_3000_3743.csv 5782368
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/02_2023/PgilVodafone_202302_1000_2000.csv 8069061
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/02_2023/PgilVodafone_202302_1_1000.csv 8061000
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/02_2023/PgilVodafone_202302_2000_3000.csv 8069061
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/02_2023/PgilVodafone_202302_3000_3743.csv 5997384
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/03_2023/PgilVodafone_202303_1501_2500.csv 8780000
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/03_2023/PgilVodafone_202303_1_1500.csv 13170000
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/03_2023/PgilVodafone_202303_2501_3500.csv 8780000
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/03_2023/PgilVodafone_202303_3501_3743.csv 2133540
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/04_2023/PgilVodafone_202304_1000_2000.csv 8267259
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/04_2023/PgilVodafone_202304_1_1000.csv 8259000
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/04_2023/PgilVodafone_202304_2000_3000.csv 8267259
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/05_2023/PgilVodafone_202305_1501_2500.csv 8688000
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/05_2023/PgilVodafone_202305_1_1500.csv 13058028
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/05_2023/PgilVodafone_202305_2501_3500.csv 8688000
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/05_2023/PgilVodafone_202305_3501_3743.csv 2111184
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/06_2023/PgilVodafone_202306_1501_2500.csv 8119000
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/06_2023/PgilVodafone_202306_1_1500.csv 12178500
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/06_2023/PgilVodafone_202306_2501_3500.csv 8119000
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/06_2023/PgilVodafone_202306_3501_3743.csv 1972917
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/07_2023/PgilVodafone_202307_1501_2500.csv 8738000
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/07_2023/PgilVodafone_202307_1_1500.csv 13107000
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/07_2023/PgilVodafone_202307_2501_3500.csv 8738000
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/07_2023/PgilVodafone_202307_3501_3743.csv 2123334
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/08_2023/PgilVodafone_202308_1000_2000.csv 8902685
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/08_2023/PgilVodafone_202308_1_1000.csv 8891992
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/08_2023/PgilVodafone_202308_2000_3000.csv 8902535
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/08_2023/PgilVodafone_202308_3000_3743.csv 6616828
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/09_2023/PgilVodafone_202309_1501_2500.csv 8606483
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/09_2023/PgilVodafone_202309_1_1500.csv 12908382
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/09_2023/PgilVodafone_202309_2501_3500.csv 8606799
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/09_2023/PgilVodafone_202309_3501_3743.csv 2091573
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/10_2023/PgilVodafone_202310_1501_2500.csv 8668000
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/10_2023/PgilVodafone_202310_1_1500.csv 13001687
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/10_2023/PgilVodafone_202310_2501_3500.csv 8668000
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/10_2023/PgilVodafone_202310_3501_3743.csv 2106324
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/11_2023/PgilVodafone_202311_1501_2500.csv 8485808
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/11_2023/PgilVodafone_202311_1_1500.csv 12727237
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/11_2023/PgilVodafone_202311_2501_3500.csv 8486277
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/11_2023/PgilVodafone_202311_3501_3743.csv 2062207
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/12_2023/PgilVodafone_202312_1501_2500.csv 8878281
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/12_2023/PgilVodafone_202312_1_1500.csv 13314523
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/12_2023/PgilVodafone_202312_2501_3500.csv 8878787
+./01 - VODAFONE GRELHA/Vodafone grelha 2023/12_2023/PgilVodafone_202312_3501_3743.csv 2157613
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/01_2024/PgilVodafone_202401_1001_1500.csv 4392824
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/01_2024/PgilVodafone_202401_1501_2000.csv 4392355
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/01_2024/PgilVodafone_202401_1_500.csv 4392418
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/01_2024/PgilVodafone_202401_2001_2500.csv 4392421
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/01_2024/PgilVodafone_202401_2501_3000.csv 4392809
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/01_2024/PgilVodafone_202401_3001_3500.csv 4392905
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/01_2024/PgilVodafone_202401_3501_3743.csv 2134963
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/01_2024/PgilVodafone_202401_501_1000.csv 4392634
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/02_2024/PgilVodafone_202402_1001_1500.csv 4059000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/02_2024/PgilVodafone_202402_1501_2000.csv 4059000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/02_2024/PgilVodafone_202402_1_500.csv 4059000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/02_2024/PgilVodafone_202402_2001_2500.csv 4059000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/02_2024/PgilVodafone_202402_2501_3000.csv 4059000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/02_2024/PgilVodafone_202402_3001_3500.csv 4059000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/02_2024/PgilVodafone_202402_3501_3743.csv 1972674
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/02_2024/PgilVodafone_202402_501_1000.csv 4059000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/03_2024/PgilVodafone_202403_1001_1500.csv 4118500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/03_2024/PgilVodafone_202403_1501_2000.csv 4118500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/03_2024/PgilVodafone_202403_1_500.csv 4118500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/03_2024/PgilVodafone_202403_2001_2500.csv 4118500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/03_2024/PgilVodafone_202403_2501_3000.csv 4118500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/03_2024/PgilVodafone_202403_3001_3500.csv 4118500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/03_2024/PgilVodafone_202403_3501_3743.csv 2001591
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/03_2024/PgilVodafone_202403_501_1000.csv 4118500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/04_2024/PgilVodafone_202404_1001_1500.csv 4270000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/04_2024/PgilVodafone_202404_1501_2000.csv 4270000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/04_2024/PgilVodafone_202404_1_500.csv 4270000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/04_2024/PgilVodafone_202404_2001_2500.csv 4270000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/04_2024/PgilVodafone_202404_2501_3000.csv 4270000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/04_2024/PgilVodafone_202404_3001_3500.csv 4270000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/04_2024/PgilVodafone_202404_3501_3743.csv 2075220
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/04_2024/PgilVodafone_202404_501_1000.csv 4270000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/05_2024/PgilVodafone_202405_1001_1500.csv 4379000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/05_2024/PgilVodafone_202405_1501_2000.csv 4379000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/05_2024/PgilVodafone_202405_1_500.csv 4379000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/05_2024/PgilVodafone_202405_2001_2500.csv 4379000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/05_2024/PgilVodafone_202405_2501_3000.csv 4379000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/05_2024/PgilVodafone_202405_3001_3500.csv 4379000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/05_2024/PgilVodafone_202405_3501_3743.csv 2128194
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/05_2024/PgilVodafone_202405_501_1000.csv 4379000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/06_2024/PgilVodafone_202406_1001_1500.csv 4289500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/06_2024/PgilVodafone_202406_1501_2000.csv 4289500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/06_2024/PgilVodafone_202406_1_500.csv 4289500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/06_2024/PgilVodafone_202406_2001_2500.csv 4289500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/06_2024/PgilVodafone_202406_2501_3000.csv 4289500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/06_2024/PgilVodafone_202406_3001_3500.csv 4289500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/06_2024/PgilVodafone_202406_3501_3743.csv 2084697
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/06_2024/PgilVodafone_202406_501_1000.csv 4289500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/07_2024/PgilVodafone_202407_1001_1500.csv 4462500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/07_2024/PgilVodafone_202407_1501_2000.csv 4423841
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/07_2024/PgilVodafone_202407_1_1000.csv 8925000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/07_2024/PgilVodafone_202407_2001_2500.csv 4462500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/07_2024/PgilVodafone_202407_2501_3000.csv 4462500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/07_2024/PgilVodafone_202407_3001_3500.csv 4462500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/07_2024/PgilVodafone_202407_3501_3743.csv 2168775
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/08_2024/PgilVodafoneA_202408_1_3743.csv 19972648
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/08_2024/PgilVodafone_202408_1001_1500.csv 1796500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/08_2024/PgilVodafone_202408_1501_2000.csv 1796500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/08_2024/PgilVodafone_202408_1_1000.csv 3593000
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/08_2024/PgilVodafone_202408_2001_2500.csv 1796500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/08_2024/PgilVodafone_202408_2501_3000.csv 1796500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/08_2024/PgilVodafone_202408_3001_3500.csv 1796500
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/08_2024/PgilVodafone_202408_3501_3743.csv 873099
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/09_2024/PgilVodafoneA_202409_1_3743.csv 15919742
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/10_2024/PGIL_Vodafone_102024.csv     33356008
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/11_2024.csv                          32250099
+./01 - VODAFONE GRELHA/Vodafone grelha 2024/12_2024.csv                          32341348
+./01 - VODAFONE GRELHA/Vodafone grelha_2025/01_2025.csv                          33540150
+./01 - VODAFONE GRELHA/Vodafone grelha_2025/02_2025.csv                          30263174
+./01 - VODAFONE GRELHA/Vodafone grelha_2025/03_2025.csv                          33216962
+./01 - VODAFONE GRELHA/Vodafone grelha_2025/04_2025.csv                          32412750
+./01 - VODAFONE GRELHA/Vodafone grelha_2025/05_2025.csv                          33288364
+./01 - VODAFONE GRELHA/Vodafone grelha_2025/06_2025.csv                          31581375
+./02 - VODAFONE QUADRÍCULAS/VODAFONE_QUADRICULAS.csv                            3743
+./02 - VODAFONE QUADRÍCULAS/geoJsonCSV.csv                                      3743
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2023/PGIL_WAZE_JAMS_01_2023.csv                  1217986
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2023/PGIL_WAZE_JAMS_02_2023.csv                  1414064
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2023/PGIL_WAZE_JAMS_03_2023.csv                  1400449
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2023/PGIL_WAZE_JAMS_04_2023.csv                  1397914
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2023/PGIL_WAZE_JAMS_05_2023.csv                  1974341
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2023/PGIL_WAZE_JAMS_06_2023.csv                  2055341
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2023/PGIL_WAZE_JAMS_07_2023.csv                  1661298
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2023/PGIL_WAZE_JAMS_08_2023.csv                  2271339
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2023/PGIL_WAZE_JAMS_09_2023.csv                  1857600
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2023/PGIL_WAZE_JAMS_10_2023.csv                  2074707
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2023/PGIL_WAZE_JAMS_11_2023.csv                  2337996
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2023/PGIL_WAZE_JAMS_12_2023.csv                  2516153
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2024/waze_01_2024.csv                            2301205
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2024/waze_02_2024.csv                            2345861
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2024/waze_03_2024.csv                            2358832
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2024/waze_04_2024.csv                            2168071
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2024/waze_05_2024.csv                            1989080
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2024/waze_06_2024.csv                            1858702
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2024/waze_07_2024.csv                            1794089
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2024/waze_08_2024.csv                            1760017
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2024/waze_09_2024.csv                            2334045
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2024/waze_10_2024.csv                            126214
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2024/waze_11_2024.csv                            2808888
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2024/waze_12_2024.csv                            2421456
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2025/waze_2025_01.csv                            223807
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2025/waze_2025_01_2.csv                          1893528
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2025/waze_2025_02.csv                            2225798
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2025/waze_2025_03.csv                            2544077
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2025/waze_2025_04.csv                            1803488
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2025/waze_2025_05.csv                            2079488
+./03 - WAZE_JAMS/PGIL_WAZE_JAMS_2025/waze_2025_06.csv                            2041434
+./04 - IPMA/IPMA 2023/PGIL_IPMA_METEO_OBS_2023_SEM1.csv                          12893
+./04 - IPMA/IPMA 2023/PGIL_IPMA_METEO_OBS_2023_SEM2.csv                          13191
+./04 - IPMA/IPMA 2024/PGIL_IPMA_METRO_OBS_1Sem2024.csv                           13074
+./04 - IPMA/IPMA 2024/PGIL_IPMA_METRO_OBS_2Sem2024.csv                           13225
+./04 - IPMA/IPMA_2025/PGIL_IPMA_METEO_OBS_1Sem2025.csv                           12705
+./04 - IPMA/IPMA_2025/PGIL_IPMA_METEO_OBS_1Sem2025_corrigido.csv                 12705
