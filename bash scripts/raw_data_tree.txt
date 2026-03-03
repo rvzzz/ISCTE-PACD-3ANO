@@ -1,0 +1,207 @@
+> tree -L 4
+
+.
+├── AMOSTRAS
+│   ├── Amostra_PGIL_IPMA_METEO_OBS.csv
+│   ├── Amostra_VODAFONE_QUADRICULAS.xlsx
+│   ├── Amostra_Vodafone_grelha_06_2025.csv
+│   └── Amostra_waze_2025_06.csv
+├── Ficha202503 - Descrição - Caracterização dos terminais intermodais.pdf
+├── Ficha202503 Caracterização dos terminais intermodais.pdf
+├── IPMA
+│   ├── IPMA 2023
+│   │   ├── PGIL_IPMA_METEO_OBS_2023_SEM1.csv
+│   │   └── PGIL_IPMA_METEO_OBS_2023_SEM2.csv
+│   ├── IPMA 2024
+│   │   ├── PGIL_IPMA_METRO_OBS_1Sem2024.csv
+│   │   └── PGIL_IPMA_METRO_OBS_2Sem2024.csv
+│   └── IPMA_2025
+│       └── PGIL_IPMA_METEO_OBS_1Sem2025.csv
+├── VODAFONE GRELHA
+│   ├── Grelhas da cidade de Lisboa.png
+│   ├── Grelhas_Interfaces.pdf
+│   ├── VODAFONE_METAINFORMACAO_E_INDICADORES.docx
+│   ├── Vodafone grelha 2023
+│   │   ├── 01_2023
+│   │   │   ├── PgilVodafone_202301_1000_2000.csv
+│   │   │   ├── PgilVodafone_202301_1_1000.csv
+│   │   │   ├── PgilVodafone_202301_2000_3000.csv
+│   │   │   └── PgilVodafone_202301_3000_3743.csv
+│   │   ├── 02_2023
+│   │   │   ├── PgilVodafone_202302_1000_2000.csv
+│   │   │   ├── PgilVodafone_202302_1_1000.csv
+│   │   │   ├── PgilVodafone_202302_2000_3000.csv
+│   │   │   └── PgilVodafone_202302_3000_3743.csv
+│   │   ├── 03_2023
+│   │   │   ├── PgilVodafone_202303_1501_2500.csv
+│   │   │   ├── PgilVodafone_202303_1_1500.csv
+│   │   │   ├── PgilVodafone_202303_2501_3500.csv
+│   │   │   └── PgilVodafone_202303_3501_3743.csv
+│   │   ├── 04_2023
+│   │   │   ├── PgilVodafone_202304_1000_2000.csv
+│   │   │   ├── PgilVodafone_202304_1_1000.csv
+│   │   │   └── PgilVodafone_202304_2000_3000.csv
+│   │   ├── 05_2023
+│   │   │   ├── PgilVodafone_202305_1501_2500.csv
+│   │   │   ├── PgilVodafone_202305_1_1500.csv
+│   │   │   ├── PgilVodafone_202305_2501_3500.csv
+│   │   │   └── PgilVodafone_202305_3501_3743.csv
+│   │   ├── 06_2023
+│   │   │   ├── PgilVodafone_202306_1501_2500.csv
+│   │   │   ├── PgilVodafone_202306_1_1500.csv
+│   │   │   ├── PgilVodafone_202306_2501_3500.csv
+│   │   │   └── PgilVodafone_202306_3501_3743.csv
+│   │   ├── 07_2023
+│   │   │   ├── PgilVodafone_202307_1501_2500.csv
+│   │   │   ├── PgilVodafone_202307_1_1500.csv
+│   │   │   ├── PgilVodafone_202307_2501_3500.csv
+│   │   │   └── PgilVodafone_202307_3501_3743.csv
+│   │   ├── 08_2023
+│   │   │   ├── PgilVodafone_202308_1000_2000.csv
+│   │   │   ├── PgilVodafone_202308_1_1000.csv
+│   │   │   ├── PgilVodafone_202308_2000_3000.csv
+│   │   │   └── PgilVodafone_202308_3000_3743.csv
+│   │   ├── 09_2023
+│   │   │   ├── PgilVodafone_202309_1501_2500.csv
+│   │   │   ├── PgilVodafone_202309_1_1500.csv
+│   │   │   ├── PgilVodafone_202309_2501_3500.csv
+│   │   │   └── PgilVodafone_202309_3501_3743.csv
+│   │   ├── 10_2023
+│   │   │   ├── PgilVodafone_202310_1501_2500.csv
+│   │   │   ├── PgilVodafone_202310_1_1500.csv
+│   │   │   ├── PgilVodafone_202310_2501_3500.csv
+│   │   │   └── PgilVodafone_202310_3501_3743.csv
+│   │   ├── 11_2023
+│   │   │   ├── PgilVodafone_202311_1501_2500.csv
+│   │   │   ├── PgilVodafone_202311_1_1500.csv
+│   │   │   ├── PgilVodafone_202311_2501_3500.csv
+│   │   │   └── PgilVodafone_202311_3501_3743.csv
+│   │   └── 12_2023
+│   │       ├── PgilVodafone_202312_1501_2500.csv
+│   │       ├── PgilVodafone_202312_1_1500.csv
+│   │       ├── PgilVodafone_202312_2501_3500.csv
+│   │       └── PgilVodafone_202312_3501_3743.csv
+│   ├── Vodafone grelha 2024
+│   │   ├── 01_2024
+│   │   │   ├── PgilVodafone_202401_1001_1500.csv
+│   │   │   ├── PgilVodafone_202401_1501_2000.csv
+│   │   │   ├── PgilVodafone_202401_1_500.csv
+│   │   │   ├── PgilVodafone_202401_2001_2500.csv
+│   │   │   ├── PgilVodafone_202401_2501_3000.csv
+│   │   │   ├── PgilVodafone_202401_3001_3500.csv
+│   │   │   ├── PgilVodafone_202401_3501_3743.csv
+│   │   │   └── PgilVodafone_202401_501_1000.csv
+│   │   ├── 02_2024
+│   │   │   ├── PgilVodafone_202402_1001_1500.csv
+│   │   │   ├── PgilVodafone_202402_1501_2000.csv
+│   │   │   ├── PgilVodafone_202402_1_500.csv
+│   │   │   ├── PgilVodafone_202402_2001_2500.csv
+│   │   │   ├── PgilVodafone_202402_2501_3000.csv
+│   │   │   ├── PgilVodafone_202402_3001_3500.csv
+│   │   │   ├── PgilVodafone_202402_3501_3743.csv
+│   │   │   └── PgilVodafone_202402_501_1000.csv
+│   │   ├── 03_2024
+│   │   │   ├── PgilVodafone_202403_1001_1500.csv
+│   │   │   ├── PgilVodafone_202403_1501_2000.csv
+│   │   │   ├── PgilVodafone_202403_1_500.csv
+│   │   │   ├── PgilVodafone_202403_2001_2500.csv
+│   │   │   ├── PgilVodafone_202403_2501_3000.csv
+│   │   │   ├── PgilVodafone_202403_3001_3500.csv
+│   │   │   ├── PgilVodafone_202403_3501_3743.csv
+│   │   │   └── PgilVodafone_202403_501_1000.csv
+│   │   ├── 04_2024
+│   │   │   ├── PgilVodafone_202404_1001_1500.csv
+│   │   │   ├── PgilVodafone_202404_1501_2000.csv
+│   │   │   ├── PgilVodafone_202404_1_500.csv
+│   │   │   ├── PgilVodafone_202404_2001_2500.csv
+│   │   │   ├── PgilVodafone_202404_2501_3000.csv
+│   │   │   ├── PgilVodafone_202404_3001_3500.csv
+│   │   │   ├── PgilVodafone_202404_3501_3743.csv
+│   │   │   └── PgilVodafone_202404_501_1000.csv
+│   │   ├── 05_2024
+│   │   │   ├── PgilVodafone_202405_1001_1500.csv
+│   │   │   ├── PgilVodafone_202405_1501_2000.csv
+│   │   │   ├── PgilVodafone_202405_1_500.csv
+│   │   │   ├── PgilVodafone_202405_2001_2500.csv
+│   │   │   ├── PgilVodafone_202405_2501_3000.csv
+│   │   │   ├── PgilVodafone_202405_3001_3500.csv
+│   │   │   ├── PgilVodafone_202405_3501_3743.csv
+│   │   │   └── PgilVodafone_202405_501_1000.csv
+│   │   ├── 06_2024
+│   │   │   ├── PgilVodafone_202406_1001_1500.csv
+│   │   │   ├── PgilVodafone_202406_1501_2000.csv
+│   │   │   ├── PgilVodafone_202406_1_500.csv
+│   │   │   ├── PgilVodafone_202406_2001_2500.csv
+│   │   │   ├── PgilVodafone_202406_2501_3000.csv
+│   │   │   ├── PgilVodafone_202406_3001_3500.csv
+│   │   │   ├── PgilVodafone_202406_3501_3743.csv
+│   │   │   └── PgilVodafone_202406_501_1000.csv
+│   │   ├── 07_2024
+│   │   │   ├── PgilVodafone_202407_1001_1500.csv
+│   │   │   ├── PgilVodafone_202407_1501_2000.csv
+│   │   │   ├── PgilVodafone_202407_1_1000.csv
+│   │   │   ├── PgilVodafone_202407_2001_2500.csv
+│   │   │   ├── PgilVodafone_202407_2501_3000.csv
+│   │   │   ├── PgilVodafone_202407_3001_3500.csv
+│   │   │   └── PgilVodafone_202407_3501_3743.csv
+│   │   ├── 08_2024
+│   │   │   ├── PgilVodafoneA_202408_1_3743.csv
+│   │   │   ├── PgilVodafone_202408_1001_1500.csv
+│   │   │   ├── PgilVodafone_202408_1501_2000.csv
+│   │   │   ├── PgilVodafone_202408_1_1000.csv
+│   │   │   ├── PgilVodafone_202408_2001_2500.csv
+│   │   │   ├── PgilVodafone_202408_2501_3000.csv
+│   │   │   ├── PgilVodafone_202408_3001_3500.csv
+│   │   │   └── PgilVodafone_202408_3501_3743.csv
+│   │   ├── 09_2024
+│   │   │   └── PgilVodafoneA_202409_1_3743.csv
+│   │   ├── 10_2024
+│   │   │   └── PGIL_Vodafone_102024.csv
+│   │   ├── 11_2024.csv
+│   │   └── 12_2024.csv
+│   └── Vodafone grelha_2025
+│       ├── 01_2025.csv
+│       ├── 02_2025.csv
+│       ├── 03_2025.csv
+│       ├── 04_2025.csv
+│       ├── 05_2025.csv
+│       └── 06_2025.csv
+├── VODAFONE QUADRÍCULAS
+│   └── VODAFONE_QUADRICULAS.xlsx
+└── WAZE_JAMS
+    ├── PGIL_WAZE_JAMS_2023
+    │   ├── PGIL_WAZE_JAMS_01_2023.csv
+    │   ├── PGIL_WAZE_JAMS_02_2023.csv
+    │   ├── PGIL_WAZE_JAMS_03_2023.csv
+    │   ├── PGIL_WAZE_JAMS_04_2023.csv
+    │   ├── PGIL_WAZE_JAMS_05_2023.csv
+    │   ├── PGIL_WAZE_JAMS_06_2023.csv
+    │   ├── PGIL_WAZE_JAMS_07_2023.csv
+    │   ├── PGIL_WAZE_JAMS_08_2023.csv
+    │   ├── PGIL_WAZE_JAMS_09_2023.csv
+    │   ├── PGIL_WAZE_JAMS_10_2023.csv
+    │   ├── PGIL_WAZE_JAMS_11_2023.csv
+    │   └── PGIL_WAZE_JAMS_12_2023.csv
+    ├── PGIL_WAZE_JAMS_2024
+    │   ├── waze_01_2024.csv
+    │   ├── waze_02_2024.csv
+    │   ├── waze_03_2024.csv
+    │   ├── waze_04_2024.csv
+    │   ├── waze_05_2024.csv
+    │   ├── waze_06_2024.csv
+    │   ├── waze_07_2024.csv
+    │   ├── waze_08_2024.csv
+    │   ├── waze_09_2024.csv
+    │   ├── waze_10_2024.csv
+    │   ├── waze_11_2024.csv
+    │   └── waze_12_2024.csv
+    └── PGIL_WAZE_JAMS_2025
+        ├── waze_2025_01.csv
+        ├── waze_2025_01_2.csv
+        ├── waze_2025_02.csv
+        ├── waze_2025_03.csv
+        ├── waze_2025_04.csv
+        ├── waze_2025_05.csv
+        └── waze_2025_06.csv
+
+36 directories, 166 files
