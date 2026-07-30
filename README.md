@@ -5,8 +5,8 @@ Este repositório guarda os artefactos de apoio do projecto de caracterização 
 ## Conteúdo
 
 - `grelha.geojson`: geometria da grelha usada no projecto.
-- `GRUPO_15.pdf`: documento de apoio do grupo.
-- `PFACD_2025_2026_G15___Caracterização_dos_terminais_intermodais_em_Lisboa.pdf`: ficha/relatório principal do projecto.
+- `GRUPO_15.pdf`: poster de comunicação do grupo.
+- `PFACD_2025_2026_G15___Caracterização_dos_terminais_intermodais_em_Lisboa.pdf`: relatório principal do projecto.
 - `bash scripts/`: utilitários para inspecionar os CSV e guardar os relatórios gerados.
 
 ## Pasta `bash scripts/`
